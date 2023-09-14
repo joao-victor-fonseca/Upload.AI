@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo" src="./Assents/logo (1).png" width="20%">
+  <img alt="Logo" src="./photos/logo (1).png" width="20%">
 </p>
 
 ## 💻 Projeto
@@ -9,11 +9,11 @@ Aplicação que possibilita realizar upload de videos e por meio de IA, criar au
 <br>
 
 <p  align="center">
-  <img src="./Assents/preview.png" />
+  <img src="./photos/preview.png" />
    
 </p>
 <p  align="center">
-  <img src="./Assents/Captura de tela 2023-09-14 132833.png" />
+  <img src="./photos/Captura de tela 2023-09-14 132833.png" />
    
 </p>
 
